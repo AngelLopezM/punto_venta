@@ -1,0 +1,16 @@
+{
+  "ids": {
+    "Producto": 59
+  },
+  "models": {
+    "Producto": {
+      "46": "{\"idProducto\":46,\"nombre\":\"kiwi\",\"existencias\":12,\"precio\":35,\"descripcion\":\"un papayon\"}",
+      "53": "{\"nombre\":\"ceboll\",\"existencias\":2,\"precio\":20,\"descripcion\":\"dkwo\",\"idProducto\":53}",
+      "54": "{\"nombre\":\"jutomate\",\"existencias\":50,\"precio\":20,\"descripcion\":\"djwj\",\"idProducto\":54}",
+      "55": "{\"nombre\":\"pepino\",\"existencias\":6,\"precio\":50,\"descripcion\":\"djus\",\"idProducto\":55}",
+      "56": "{\"nombre\":\"ajonjoli\",\"existencias\":10,\"precio\":1,\"descripcion\":\"kerkd\",\"idProducto\":56}",
+      "57": "{\"nombre\":\"piñA\",\"existencias\":6,\"precio\":20,\"descripcion\":\"oqos\",\"idProducto\":57}",
+      "58": "{\"nombre\":\"botella\",\"existencias\":5,\"precio\":50,\"descripcion\":\"nfosn\",\"idProducto\":58}"
+    }
+  }
+}
